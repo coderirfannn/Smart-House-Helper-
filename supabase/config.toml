@@ -1,0 +1,16 @@
+project_id = "ijpvbtaywktulxwvegfv"
+
+[functions.create-booking]
+verify_jwt = false
+
+[functions.respond-to-offer]
+verify_jwt = false
+
+[functions.check-timeout]
+verify_jwt = false
+
+[functions.update-helper-location]
+verify_jwt = false
+
+[functions.seed-demo-data]
+verify_jwt = false
